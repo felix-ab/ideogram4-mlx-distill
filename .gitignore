@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+out.png
+ideogram4-6step/
+ideogram4-12step/

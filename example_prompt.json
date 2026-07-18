@@ -1,0 +1,22 @@
+{
+  "high_level_description": "Avant-garde editorial portrait in an overgrown greenhouse: a woman stands far to the right edge of a wide-angle frame, close to the fogged glass, while a wall of monstera and palm leaves fills the vast left side with teal-green shadow. One continuous camera exposure filling the full image area.",
+  "style_description": {
+    "aesthetics": "avant-garde fashion editorial, deliberate off-center negative space, chiaroscuro restraint, 90s art-house film mood, no text",
+    "lighting": "teal-green daylight filtering through dense leaves, casting a dappled lattice of sharp leaf shadows across her face and dress; deep green-black shadow elsewhere; one thin warm rim of late sun on her cheekbone",
+    "photo": "ultra wide-angle plastic toy-camera lens, slight chromatic aberration fringing magenta-green at the frame edges, gentle barrel softness in the corners, visible film grain, natural skin texture with pores",
+    "medium": "35mm color negative film photograph",
+    "color_palette": ["#0E2A22", "#2E5F4A", "#7FB69B", "#D9C8A8", "#101C18"],
+    "film_emulation": "expired Fuji Superia 400 through a plastic toy lens"
+  },
+  "compositional_deconstruction": {
+    "background": "A floor-to-ceiling greenhouse wall: slender white steel glazing bars forming a visible criss-cross grid of glass panes, fogged with humidity, overgrown with monstera leaves pressing against the glass; the left two-thirds of the frame is leaf shadow and negative space.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [140, 620, 940, 990],
+        "desc": "The woman from mid-thigh up at the right edge of frame, three-quarter profile, dark slicked hair, bias-cut sage slip dress, eyes closed toward the light, dappled leaf shadows patterning her skin."
+      }
+    ]
+  },
+  "atmosphere": "humid greenhouse haze, dust and pollen motes visible in the teal light shafts"
+}

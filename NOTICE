@@ -1,0 +1,9 @@
+Ideogram 4 is provided under and subject to the Ideogram Non-Commercial Model Agreement
+available at https://github.com/ideogram-oss/ideogram-4/model_licenses/LICENSE-IDEOGRAM-4-NON-COMMERCIAL.
+All rights reserved. Copyright © Ideogram, Inc.
+
+This repository distributes Model Derivatives of Ideogram 4 (single-branch distillations
+of the conditional transformer) under the same Agreement. See LICENSE.md for the full
+Agreement text and MODIFICATIONS.md for a description of the modifications. This is an
+independent community project; it is not an official product of Ideogram, Inc. and has
+not been endorsed, approved or validated by Ideogram, Inc.
