@@ -8,6 +8,8 @@ with the filmic/editorial character of the base model intact.
 > This is an independent, non-commercial community distillation. It is **not** an official
 > Ideogram, Inc. product and has not been endorsed, approved or validated by Ideogram, Inc.
 
+**Weights:** [huggingface.co/intheblue/ideogram-4-mlx-distilled](https://huggingface.co/intheblue/ideogram-4-mlx-distilled) (gated — accept the license to download)
+
 ## What's in the release
 
 | variant | forwards @ n steps | warm e2e, 800×992, M4 Pro 48GB | character |
