@@ -2,7 +2,7 @@
 """Assemble a runnable mflux model directory for the distilled Ideogram v4 variants.
 
 Downloads:
-  1. the distilled conditional transformer from intheblue/ideogram-4-mlx-distilled
+  1. the distilled conditional transformer from VisualInference/ideogram-4-mlx-distilled
   2. the shared components (text encoder, VAE, tokenizer, scheduler, unconditional
      transformer, model_index.json) from Ideogram's own gated release
      ideogram-ai/ideogram-4-fp8 — you must have accepted its license on Hugging Face
@@ -22,7 +22,7 @@ from pathlib import Path
 
 from huggingface_hub import snapshot_download
 
-DISTILL_REPO = "intheblue/ideogram-4-mlx-distilled"
+DISTILL_REPO = "VisualInference/ideogram-4-mlx-distilled"
 STOCK_REPO = "ideogram-ai/ideogram-4-fp8"
 VARIANT_DIRS = {"12step": "cfg-fold-12step", "6step": "step-fold-6step"}
 SHARED = ["text_encoder", "tokenizer", "vae", "unconditional_transformer", "scheduler"]
